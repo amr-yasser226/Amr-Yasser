@@ -1,9 +1,9 @@
-<h1 align="center">Yo 👋 I am Amr Yasser</h1>
-<h3 align="center">CS student</h3>
+<h1 align="center">I am Amr Yasser</h1>
+<h3 align="center">CS student, I think</h3>
   
-- 🌱 I’m currently learning **Data Structure, Data Base, Data Visualization and Integration**
+- Currently learning **Data Structure, Data Base, Data Visualization and Integration**
 
-- 📫 How to reach me **amr.yasser200.26@gmail.com**
+- Reach me **amr.yasser200.26@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
