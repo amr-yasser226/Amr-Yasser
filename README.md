@@ -1,7 +1,5 @@
 <h1 align="center">I am Amr Yasser</h1>
 <h3 align="center">DSAI student, I think</h3>
-  
-- Currently learning **Machine Learning, Algorithms Design, Data Mining, Information Retrieval, Data Governance**
 
 - Reach me **amr.yasser200.26@gmail.com**
 
