@@ -7,7 +7,10 @@ Data Science and Artificial Intelligence student at **Zewail City**
 - Reach me here: *amr.yasser200.26@gmail.com*
 
 ## Connections:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amr%20Yasser-blue)](https://www.linkedin.com/in/amr-yasser-1027542a4/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amr%20Yasser-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-yasser-1027542a4/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-amr--yasser226-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/amr-yasser226)
+
 
 ## Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
