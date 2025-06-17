@@ -42,4 +42,3 @@ Data Science and Artificial Intelligence student at **Zewail City**
 ## Chronicle of My Conquests:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=amr-yasser226&hide=html,css&show_icons=true&theme=dark&layout=compact)
 ![amr-yasser226's GitHub stats](https://github-readme-stats.vercel.app/api?username=amr-yasser226&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amr-yasser226&theme=dark)
