@@ -2,6 +2,5 @@
 
 Data Science and Artificial Intelligence student at **Zewail City**
 
-- [My Projects](https://github.com/amr-yasser226?tab=repositories)
-- [My Resume](./resume.pdf)
+- [My Resume (clickable links)](./resume.pdf?raw=true)
 - Reach me here: *amr.yasser200.26@gmail.com*
